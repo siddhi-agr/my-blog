@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fa2cc6f1.css",
+    "main.js": "/static/js/main.d989a4a6.js",
+    "static/media/pexels-cottonbro-4709289.jpg": "/static/media/pexels-cottonbro-4709289.c014cee8d7987e4e86f5.jpg",
+    "static/media/me.webp": "/static/media/me.406c130f720493518bf4.webp",
+    "index.html": "/index.html",
+    "main.fa2cc6f1.css.map": "/static/css/main.fa2cc6f1.css.map",
+    "main.d989a4a6.js.map": "/static/js/main.d989a4a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa2cc6f1.css",
+    "static/js/main.d989a4a6.js"
+  ]
+}
